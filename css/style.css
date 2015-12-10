@@ -1,0 +1,58 @@
+body, html {
+      background-color:#004B00;
+      min-height:100%;
+      padding:1px 0 0 0;
+      margin:-1px 0 0 0;
+    }
+    html{
+      height:100%;
+    }
+    
+@font-face {
+    font-family: AngryBird;
+    src: url(../fonts/bb-i.TTF);
+}
+
+.page-header .main-title {
+  font-family: AngryBird, Helvetica, Arial, sans-serif;
+  color: white;
+  display: inline-block;
+  font-size: 100px;
+}
+
+.main-pic {
+  width: 100px;
+  display: inline-block;
+  margin-left: 130px;
+}
+
+.main-pic-container {
+  display: inline-block;
+}
+
+.main-desc {
+  margin-left: 350px;
+  color: white;
+}
+
+#cr-stage {
+      border: 1px solid #FFF;
+      font-family:"Overlock SC", Helvetica, Arial, sans-serif;
+      font-size:14px;
+      line-height:16px;
+      margin-top:30px;
+      margin-left: 300px;
+    }
+.footer p{
+
+      color: #FFF;
+      margin-top: 45px;
+      padding: 35px 0 36px;
+      border-top: 1px solid #E5E5E5;
+}
+.page-header p{
+      color: #FFF;
+      margin: 0px 0 0 20;
+      font-size: 20px;
+      line-height: 2;
+}
